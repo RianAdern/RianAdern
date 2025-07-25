@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, eu sou Rian.
 
-<!--
-**RianAdern/RianAdern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Físico experimental e Cientista de Dados.
 
-Here are some ideas to get you started:
+- Aplicando **Machine Learning** .
+- Estudando automação AI.
+- Trabalhando **projetos de automação** and **Sistemas de backend** .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### Tenho trabalhado em projetos com: 
+
+<div display="inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
+  <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />   
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />   
+  <img width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />   
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />            
+</div>
+
+
